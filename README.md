@@ -2,7 +2,7 @@
 Forum software built with PHP OOP MVC
 
 # Live Demo
-<a href="http://mbvn.tk">http://mbvn.tk</a>
+<a href="http://">N/A</a>
 
 ## Configurations files
 
