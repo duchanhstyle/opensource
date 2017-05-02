@@ -1,9 +1,8 @@
 <?php
 
 /*
- * Author  :  TVC97
- * Email   :  tvc208@gmail.com
- * Website :  http://mbvn.tk/
+ * Author  :  Hạnh Nguyễn
+ * Email   :  haclongstudio@gmail.com
  */
 
 // Website URL
